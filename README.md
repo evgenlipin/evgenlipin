@@ -10,5 +10,4 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" width="40" height="40"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" title="Unix-like OS" width="40" height="40"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evgenlipin&theme=github_dark"/>
 </div>
